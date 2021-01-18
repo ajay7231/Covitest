@@ -1,4 +1,4 @@
 # Covitest
 
 <p>hi</p>
-[[Ajay's github stats](https://github-readme-stats.vercel.app/api?username=ajay7231)](https://github.com/anuraghazra/github-readme-stats)
+![Ajays's github stats](https://github-readme-stats.vercel.app/api?username=ajay7231&show_icons=true&theme=radical)
